@@ -47,7 +47,7 @@ ___
   </a>
 
   <a href="https://github.com/JessicaPaulaCosta/TCC--Biu">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=TCC--Biu=tokyonight&hide_border=true" alt="TCC--Biu"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=TCC--Biu&theme=tokyonight&hide_border=true" alt="TCC--Biu"/>
   </a>
  
   <a href="https://github.com/JessicaPaulaCosta/Programando_Sonho_Delas">
@@ -57,33 +57,37 @@ ___
   <a href="https://github.com/JessicaPaulaCosta/Bootcamp-Ciencia-de-dados">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Bootcamp-Ciencia-de-dados=tokyonight&hide_border=true" alt="Bootcamp-Ciencia-de-dados"/>
   </a>
-    
-  <a href="https://github.com/JessicaPaulaCosta/Hands-on">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Hands-on=tokyonight&hide_border=true" alt="Hands-on"/>
+
+  <a href="https://github.com/JessicaPaulaCosta/Bootcamp-Ciencia-de-dados">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Bootcamp-Ciencia-de-dados&theme=tokyonight&hide_border=true" alt="Bootcamp-Ciencia-de-dados"/>
   </a>
-    
+  
+  <a href="https://github.com/JessicaPaulaCosta/Hands-ons">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Hands-on&theme=tokyonight&hide_border=true" alt="Hands-on"/>
+  </a>
+  
   <a href="https://github.com/JessicaPaulaCosta/Cadastro-Login-com-MySQL">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Cadastro-Login-com-MySQL=tokyonight&hide_border=true" alt="Cadastro-Login-com-MySQL"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Cadastro-Login-com-MySQL&theme=tokyonight&hide_border=true" alt="Cadastro-Login-com-MySQL"/>
   </a>
-    
+  
   <a href="https://github.com/JessicaPaulaCosta/Checkin-Aerio">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Checkin-Aerio=tokyonight&hide_border=true" alt="Checkin-Aerio"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Checkin-Aerio&theme=tokyonight&hide_border=true" alt="Checkin-Aerio"/>
   </a>
-  
+
   <a href="https://github.com/JessicaPaulaCosta/Chatbot-Floricultura">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Chatbot-Floricultura=tokyonight&hide_border=true" alt="Chatbot-Floricultura"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Chatbot-Floricultura&theme=tokyonight&hide_border=true" alt="Chatbot-Floricultura"/>
   </a>
-  
+
   <a href="https://github.com/JessicaPaulaCosta/Concatenacao_Multiplas_Planilhas">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Concatenacao_Multiplas_Planilhas=tokyonight&hide_border=true" alt="Concatenacao_Multiplas_Planilhas"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Concatenacao_Multiplas_Planilhas&theme=tokyonight&hide_border=true" alt="Concatenacao_Multiplas_Planilhas"/>
   </a>
 
   <a href="https://github.com/JessicaPaulaCosta/Relatorio_Paginado">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Relatorio_Paginado=tokyonight&hide_border=true" alt="Relatorio_Paginado"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Relatorio_Paginado&theme=tokyonight&hide_border=true" alt="Relatorio_Paginado"/>
   </a>
-  
+
   <a href="https://github.com/JessicaPaulaCosta/Automacao_Start_Jupyter_Notebook">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Automacao_Start_Jupyter_Notebook=tokyonight&hide_border=true" alt="Automacao_Start_Jupyter_Notebook"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Automacao_Start_Jupyter_NotebookL&theme=tokyonight&hide_border=true" alt="Automacao_Start_Jupyter_Notebook"/>
   </a>
   
   <a href="https://github.com/JessicaPaulaCosta/Projeto_Syngenta_Brasil">
