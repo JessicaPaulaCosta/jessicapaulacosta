@@ -53,9 +53,9 @@ ___
   <a href="https://github.com/JessicaPaulaCosta/Programando_Sonho_Delas">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Programando_Sonho_Delas&theme=tokyonight&hide_border=true" alt="Programando_Sonho_Delas"/>
   </a>
- 
-  <a href="https://github.com/JessicaPaulaCosta/Bootcamp-Ciencia-de-dados">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Bootcamp-Ciencia-de-dados=tokyonight&hide_border=true" alt="Bootcamp-Ciencia-de-dados"/>
+  
+  <a href="https://github.com/JessicaPaulaCosta/Bootcamp-Ciencia-de-dadoss">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Bootcamp-Ciencia-de-dados&theme=tokyonight&hide_border=true" alt="Bootcamp-Ciencia-de-dados"/>
   </a>
 
   <a href="https://github.com/JessicaPaulaCosta/Bootcamp-Ciencia-de-dados">
