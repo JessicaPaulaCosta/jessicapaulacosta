@@ -21,6 +21,7 @@ ___
 <br>
     
 #
+
 <details open>
   <summary><h3>📦 Main Repos</h3></summary>
   <p align="left">
@@ -32,8 +33,6 @@ ___
   <a href="https://github.com/JessicaPaulaCosta/Iniciacao-Cientifica-e-Tecnologica">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Iniciacao-Cientifica-e-Tecnologica&theme=tokyonight&hide_border=true" alt="Iniciacao-Cientifica-e-Tecnologica"/>
   </a>
-    
-  </a>
 
   <a href="https://github.com/JessicaPaulaCosta/Criptografia_dados_sensiveis">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Criptografia_dados_sensiveis&theme=tokyonight&hide_border=true" alt="Criptografia_dados_sensiveis"/>
@@ -41,8 +40,56 @@ ___
        
   <a href="https://github.com/JessicaPaulaCosta/Bot_Atendimento_no_WhatsApp">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Bot_Atendimento_no_WhatsApp&theme=tokyonight&hide_border=true" alt="Bot_Atendimento_no_WhatsApp"/>
+  </a> 
+ 
+  <a href="https://github.com/JessicaPaulaCosta/Maquina_de_Busca">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Maquina_de_Busca&theme=tokyonight&hide_border=true" alt="Maquina_de_Busca"/>
+  </a>
+
+  <a href="https://github.com/JessicaPaulaCosta/TCC--Biu">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=TCC--Biu=tokyonight&hide_border=true" alt="TCC--Biu"/>
+  </a>
+ 
+  <a href="https://github.com/JessicaPaulaCosta/Programando_Sonho_Delas">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Programando_Sonho_Delas&theme=tokyonight&hide_border=true" alt="Programando_Sonho_Delas"/>
+  </a>
+ 
+  <a href="https://github.com/JessicaPaulaCosta/Bootcamp-Ciencia-de-dados">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Bootcamp-Ciencia-de-dados=tokyonight&hide_border=true" alt="Bootcamp-Ciencia-de-dados"/>
+  </a>
+    
+  <a href="https://github.com/JessicaPaulaCosta/Hands-on">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Hands-on=tokyonight&hide_border=true" alt="Hands-on"/>
+  </a>
+    
+  <a href="https://github.com/JessicaPaulaCosta/Cadastro-Login-com-MySQL">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Cadastro-Login-com-MySQL=tokyonight&hide_border=true" alt="Cadastro-Login-com-MySQL"/>
+  </a>
+    
+  <a href="https://github.com/JessicaPaulaCosta/Checkin-Aerio">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Checkin-Aerio=tokyonight&hide_border=true" alt="Checkin-Aerio"/>
   </a>
   
+  <a href="https://github.com/JessicaPaulaCosta/Chatbot-Floricultura">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Chatbot-Floricultura=tokyonight&hide_border=true" alt="Chatbot-Floricultura"/>
+  </a>
+  
+  <a href="https://github.com/JessicaPaulaCosta/Concatenacao_Multiplas_Planilhas">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Concatenacao_Multiplas_Planilhas=tokyonight&hide_border=true" alt="Concatenacao_Multiplas_Planilhas"/>
+  </a>
+
+  <a href="https://github.com/JessicaPaulaCosta/Relatorio_Paginado">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Relatorio_Paginado=tokyonight&hide_border=true" alt="Relatorio_Paginado"/>
+  </a>
+  
+  <a href="https://github.com/JessicaPaulaCosta/Automacao_Start_Jupyter_Notebook">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Automacao_Start_Jupyter_Notebook=tokyonight&hide_border=true" alt="Automacao_Start_Jupyter_Notebook"/>
+  </a>
+  
+  <a href="https://github.com/JessicaPaulaCosta/Projeto_Syngenta_Brasil">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Projeto_Syngenta_Brasil=tokyonight&hide_border=true" alt="Projeto_Syngenta_Brasil"/>
+  </a>  
+
   </p>
   
   <a href="https://github.com/JessicaPaulaCosta?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique aqui para acessar todos os repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -50,3 +97,5 @@ ___
 </details>
   
 #
+  
+
