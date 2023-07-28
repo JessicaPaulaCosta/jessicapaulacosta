@@ -87,12 +87,12 @@ ___
   </a>
 
   <a href="https://github.com/JessicaPaulaCosta/Automacao_Start_Jupyter_Notebook">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Automacao_Start_Jupyter_NotebookL&theme=tokyonight&hide_border=true" alt="Automacao_Start_Jupyter_Notebook"/>
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Automacao_Start_Jupyter_Notebook&theme=tokyonight&hide_border=true" alt="Automacao_Start_Jupyter_Notebook"/>
   </a>
   
   <a href="https://github.com/JessicaPaulaCosta/Projeto_Syngenta_Brasil">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Projeto_Syngenta_Brasil=tokyonight&hide_border=true" alt="Projeto_Syngenta_Brasil"/>
-  </a>  
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Projeto_Syngenta_Brasil&theme=tokyonight&hide_border=true" alt="Projeto_Syngenta_Brasil"/>
+  </a>
 
   </p>
   
