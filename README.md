@@ -2,13 +2,11 @@
 
 Bem-vindo ao meu perfil do GitHub!
 
-<div> 
+<p align="left">
   <a href="https://www.youtube.com/@jessicapaula6336" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
- 	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>     
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>     
   <a href="https://www.linkedin.com/in/jessicapaulacosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
+</p>
 
 ___
 
@@ -22,4 +20,33 @@ ___
 
 <br>
     
+#
+<details open>
+  <summary><h3>📦 Main Repos</h3></summary>
+  <p align="left">
+  
+  <a href="https://github.com/JessicaPaulaCosta/Analise_Fundo_Investimentos">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Analise_Fundo_Investimentos&theme=tokyonight&hide_border=true" alt="Analise_Fundo_Investimentos"/>
+  </a>
+    
+  <a href="https://github.com/JessicaPaulaCosta/Iniciacao-Cientifica-e-Tecnologica">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Iniciacao-Cientifica-e-Tecnologica&theme=tokyonight&hide_border=true" alt="Iniciacao-Cientifica-e-Tecnologica"/>
+  </a>
+    
+  </a>
+
+  <a href="https://github.com/JessicaPaulaCosta/Criptografia_dados_sensiveis">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Criptografia_dados_sensiveis&theme=tokyonight&hide_border=true" alt="Criptografia_dados_sensiveis"/>
+  </a>
+       
+  <a href="https://github.com/JessicaPaulaCosta/Bot_Atendimento_no_WhatsApp">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JessicaPaulaCosta&repo=Bot_Atendimento_no_WhatsApp&theme=tokyonight&hide_border=true" alt="Bot_Atendimento_no_WhatsApp"/>
+  </a>
+  
+  </p>
+  
+  <a href="https://github.com/JessicaPaulaCosta?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique aqui para acessar todos os repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+</details>
+  
 #
