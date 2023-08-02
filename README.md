@@ -101,8 +101,6 @@ ___
 </details>
   
 #
-  
-#
 
 <details open>
   <summary><h3>📽️ Vídeos do YouTube</h3></summary>
@@ -111,10 +109,10 @@ ___
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
-[![Os 10 Melhores Rendimentos dos últimos 12 meses com Python (https://www.youtube.com/watch?v=nZCJrW0NDC8&t=10s)]
-[![Bot Atendimento WhatsApp com sua própria API - 1/2 (https://www.youtube.com/watch?v=vre1YWVE_l0&t=1s)]
-[![Bot Atendimento WhatsApp Com sua própria API - 2/2 (https://www.youtube.com/watch?v=vj-WfNhVSdo)]
-[![Automação - Concatenação de Planilhas | Data Science com Python (https://www.youtube.com/watch?v=zvfqRnbaMLk)]
+[![(https://www.youtube.com/watch?v=nZCJrW0NDC8&t=10s)]("Os 10 Melhores Rendimentos dos últimos 12 meses com Python")
+[![(https://www.youtube.com/watch?v=vre1YWVE_l0&t=1s)]("Bot Atendimento WhatsApp com sua própria API - 1/2")
+[![(https://www.youtube.com/watch?v=vj-WfNhVSdo)]("Bot Atendimento WhatsApp Com sua própria API - 2/2")
+[![(https://www.youtube.com/watch?v=zvfqRnbaMLk)]("Automação - Concatenação de Planilhas | Data Science com Python")
 
 <!-- END YOUTUBE-CARDS -->
       
