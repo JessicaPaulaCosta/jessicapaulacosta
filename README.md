@@ -23,7 +23,7 @@ ___
 #
 
 <details open>
-  <summary><h3>📦 Main Repos</h3></summary>
+  <summary><h3>📦 Meus Repositórios</h3></summary>
   <p align="left">
   
   <a href="https://github.com/JessicaPaulaCosta/Analise_Fundo_Investimentos">
@@ -110,7 +110,9 @@ ___
 <!-- BEGIN YOUTUBE-CARDS -->
 
 ["Os 10 Melhores Rendimentos dos últimos 12 meses com Python"](https://www.youtube.com/watch?v=nZCJrW0NDC8&t=10s)
+<br>
 ["Bot Atendimento WhatsApp com sua própria API - 1/2"](https://www.youtube.com/watch?v=vre1YWVE_l0&t=1s)
+</p>
 [Bot Atendimento WhatsApp Com sua própria API - 2/2"](https://www.youtube.com/watch?v=vj-WfNhVSdo)
 ["Automação - Concatenação de Planilhas | Data Science com Python"](https://www.youtube.com/watch?v=zvfqRnbaMLk)
 
